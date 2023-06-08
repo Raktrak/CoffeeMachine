@@ -1,1 +1,2 @@
 # CoffeeMachine
+Java lesson project
